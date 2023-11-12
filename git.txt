@@ -39,6 +39,9 @@ git commit
 本地推送
 git push
 
+远程拉取
+git pull
+
 恢复最近删除（rm命令）：
 git reset HEAD 文件名 :获取最近一次提交到版本库的文件到暂存区
 
