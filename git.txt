@@ -13,6 +13,14 @@
 5.git commit -m "first commit"
 6.git push -u origin master
 
+分支操作：
+1.创建分支：git branch 分支名
+	或  git checkout -b 分支名
+
+2.切换分支：git checkout 分支名
+3.合并分支：首先将分支切换到master，然后使用命令：git merge 分支名
+		
+
 gitHub远端操作:
 1.建立repository
 2.创建Branch分支
