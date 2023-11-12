@@ -38,3 +38,8 @@ git commit
 
 本地推送
 git push
+
+恢复最近删除（rm命令）：
+git reset HEAD 文件名 :获取最近一次提交到版本库的文件到暂存区
+
+git checkout -- 文件名 :获取暂存区文件，并将其替换为工作区文件
