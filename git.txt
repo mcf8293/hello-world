@@ -9,7 +9,7 @@
    git clone git@github.com:mcf8293/example.git
 3.将项目文件夹(比如project)拷贝到example文件夹下
 3.cd example/project
-4.git add .
+4.git add 文件名
 5.git commit -m "first commit"
 6.git push -u origin master
 
